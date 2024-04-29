@@ -1,0 +1,3 @@
+﻿  Vladik.cpp
+C:\Users\UNLW_Deweloper\source\repos\Vladik\Vladik\Vladik.cpp(89,29): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+  Vladik.vcxproj -> C:\Users\UNLW_Deweloper\source\repos\Vladik\x64\Debug\Vladik.exe
